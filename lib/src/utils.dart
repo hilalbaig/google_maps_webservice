@@ -1,7 +1,6 @@
 library google_maps_webservice.utils;
 
 import 'dart:async';
-import 'dart:html';
 import 'package:meta/meta.dart';
 import 'package:http/http.dart';
 
